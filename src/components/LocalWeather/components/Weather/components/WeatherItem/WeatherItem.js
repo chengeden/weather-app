@@ -5,7 +5,7 @@ const Wrapper = styled.div`
 `;
 
 const Title = styled.div`
-	margin-bottom: 0%.75rem;
+	margin-bottom: 0.75rem;
 `;
 
 const WeatherItem = ({ title, children }) => (
